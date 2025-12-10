@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Coding Challenges/Coding Challenges.iml" filepath="$PROJECT_DIR$/Coding Challenges/Coding Challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators IF-else and Number State/Operators IF-else and Number State.iml" filepath="$PROJECT_DIR$/Operators IF-else and Number State/Operators IF-else and Number State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstproject/firstproject.iml" filepath="$PROJECT_DIR$/firstproject/firstproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java basics/java basics.iml" filepath="$PROJECT_DIR$/java basics/java basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/printsubscribe/printsubscribe.iml" filepath="$PROJECT_DIR$/printsubscribe/printsubscribe.iml" />
+    </modules>
+  </component>
+</project>
